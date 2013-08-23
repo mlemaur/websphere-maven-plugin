@@ -9,12 +9,12 @@ Xml tags
   * defaultcommand
 
 
-= Details =
+= Example=
 
-Deploy example
+[deploy_example Deploy example]
 
-Start application example
+[start_example Start application example]
 
-Stop application example
+[stop_example Stop application example]
 
-Undeploy application
+[undeploy_example Undeploy application]

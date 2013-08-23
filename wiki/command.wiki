@@ -22,6 +22,26 @@
 
 = Details =
 
-*host*
+*bold*host
   * target hostname 
-  * type: string
+  * type: String
+
+port
+  * websphere soap port
+  * type Integer
+
+bindPreferences
+  * binding preferences, es: { defaultbinding.virtual.host=default_host ]
+  * type java.util.Properties
+
+earFile
+  * ear path
+  * type: String 
+
+appName
+  * installation app name
+  * type: String
+
+target
+  * websphere target 
+  * type: String

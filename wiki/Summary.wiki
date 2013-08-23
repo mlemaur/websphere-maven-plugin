@@ -1,0 +1,20 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Xml tags
+
+  * [command]
+  * commands
+  * defaultcommand
+
+
+= Details =
+
+Deploy example
+
+Start application example
+
+Stop application example
+
+Undeploy application

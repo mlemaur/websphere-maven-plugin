@@ -9,7 +9,7 @@
  <command>INSTALL</command>
  <appName>My app name</appName>
  <earFile>/rad/target/myEAR-1.3.3.ear</earFile
- <target>WebSphere:cell=ordosNode01Cell,node=ordosNode01,server=server1</target>
+ <target>WebSphere:cell=myserverNode01Cell,node=myserverNode01,server=server1</target>
  <pathAppClient>/IBM/WebSphere/AppClient</pathAppClient>	
  <bindProperties>
   <property>
@@ -19,3 +19,5 @@
  </bindProperties>
 </command>
 }}}
+
+[Summary]

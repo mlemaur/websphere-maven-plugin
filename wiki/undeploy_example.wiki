@@ -1,4 +1,4 @@
-#Undeploy example
+#summary Undeploy example
 
 {{{
 <command>
@@ -10,3 +10,5 @@
  <pathAppClient>E:/IBM/WebSphere/AppClient</pathAppClient>	
 </command>
 }}}
+
+[Summary]

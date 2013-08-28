@@ -1,12 +1,14 @@
-#Stop application
+#summary Stop application
 
 {{{
 <command>
  <name>Stop</name>
- <description>Mock Ear</description>
+ <description>My Ear</description>
  <command>STOP</command>
- <appName>Mock</appName>
- <target>WebSphere:cell=ordosNode01Cell,node=ordosNode01,server=server1</target>
- <pathAppClient>E:/IBM/WebSphere/AppClient</pathAppClient>	
+ <appName>MyApp</appName>
+ <target>WebSphere:cell=myserverNode01Cell,node=myserverNode01,server=server1</target>
+ <pathAppClient>/IBM/WebSphere/AppClient</pathAppClient>	
 </command>
 }}}
+
+[Summary]

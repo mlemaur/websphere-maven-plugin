@@ -1,0 +1,12 @@
+#Undeploy example
+
+{{{
+<command>
+ <name>Uninstall</name>
+ <description>My Ear</description>
+ <command>UNINSTALL</command>
+ <appName>MyApplication</appName>
+ <target>WebSphere:cell=ordosNode01Cell,node=ordosNode01,server=server1</target>
+ <pathAppClient>E:/IBM/WebSphere/AppClient</pathAppClient>	
+</command>
+}}}

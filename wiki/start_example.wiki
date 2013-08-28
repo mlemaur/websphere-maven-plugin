@@ -1,4 +1,4 @@
-#Ssummary tart application example
+#summary Start application example
 
 {{{
 <command>

@@ -5,8 +5,8 @@
 Xml tags
 
   * [command]
-  * commands
-  * defaultcommand
+  * [commands]
+  * [defaultcommand]
 
 
 = Example=

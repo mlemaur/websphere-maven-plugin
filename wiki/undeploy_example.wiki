@@ -6,8 +6,8 @@
  <description>My Ear</description>
  <command>UNINSTALL</command>
  <appName>MyApplication</appName>
- <target>WebSphere:cell=ordosNode01Cell,node=ordosNode01,server=server1</target>
- <pathAppClient>E:/IBM/WebSphere/AppClient</pathAppClient>	
+ <target>WebSphere:cell=myserverNode01Cell,node=myserverNode01,server=server1</target>
+ <pathAppClient>/IBM/WebSphere/AppClient</pathAppClient>	
 </command>
 }}}
 

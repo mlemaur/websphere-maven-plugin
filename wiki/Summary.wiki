@@ -9,7 +9,7 @@ Xml tags
   * [defaultcommand]
 
 
-= Command Example=
+== Command Example==
 
 [deploy_example Deploy example]
 

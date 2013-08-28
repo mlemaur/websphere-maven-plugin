@@ -1,0 +1,29 @@
+#summary setting default value of command
+= Structure =
+
+{{{
+<defaultCommand>
+ <command/>
+ <host/>
+ <port/>	
+ <bindPreferences/>
+ <earFile/>
+ <appName/>
+ <target/>
+ <username/>
+ <password/>
+ <eableSecurity/>
+ <trustStoreFile/>
+ <trustStorePassword/>
+ <keyStoreFile/>
+ <keyStorePassword/>
+ <description/>
+ <stopOnError/>
+ <pathAppClient/>
+ <ibmJre/>
+</defaulCommand>
+}}}
+
+see: [command]
+
+[Summary]

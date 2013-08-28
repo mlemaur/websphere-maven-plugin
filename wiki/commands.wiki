@@ -1,0 +1,12 @@
+#summary list of command
+
+= Structure =
+{{{
+<commands>
+  <command>...
+  <command>...
+  ...
+</commands>
+}}}
+
+[Summary]

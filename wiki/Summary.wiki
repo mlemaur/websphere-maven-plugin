@@ -18,3 +18,6 @@ Xml tags
 [stop_example Stop application example]
 
 [undeploy_example Undeploy application]
+
+== Download ==
+[http://code.google.com/p/websphere-maven-plugin/source/browse/trunk/plugin/websphere7am-maven-plugin-1.0.0.jar Websphere maven plugin]
